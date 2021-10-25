@@ -1,0 +1,13 @@
+D:\Users\FEYZA\Visual Studio Projects\ForeignCurrency\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+D:\Users\FEYZA\Visual Studio Projects\ForeignCurrency\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\Users\FEYZA\Visual Studio Projects\ForeignCurrency\Core\bin\Debug\Core.dll
+D:\Users\FEYZA\Visual Studio Projects\ForeignCurrency\Core\bin\Debug\Core.pdb
+D:\Users\FEYZA\Visual Studio Projects\ForeignCurrency\Core\bin\Debug\Entities.dll
+D:\Users\FEYZA\Visual Studio Projects\ForeignCurrency\Core\bin\Debug\Newtonsoft.Json.dll
+D:\Users\FEYZA\Visual Studio Projects\ForeignCurrency\Core\bin\Debug\RestSharp.dll
+D:\Users\FEYZA\Visual Studio Projects\ForeignCurrency\Core\bin\Debug\Entities.pdb
+D:\Users\FEYZA\Visual Studio Projects\ForeignCurrency\Core\bin\Debug\Newtonsoft.Json.xml
+D:\Users\FEYZA\Visual Studio Projects\ForeignCurrency\Core\bin\Debug\RestSharp.xml
+D:\Users\FEYZA\Visual Studio Projects\ForeignCurrency\Core\obj\Debug\Core.csproj.CopyComplete
+D:\Users\FEYZA\Visual Studio Projects\ForeignCurrency\Core\obj\Debug\Core.dll
+D:\Users\FEYZA\Visual Studio Projects\ForeignCurrency\Core\obj\Debug\Core.pdb
