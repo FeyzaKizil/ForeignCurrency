@@ -16,7 +16,7 @@ namespace Core
 
         public DatabaseLogicLayer()
         {
-            con = new SqlConnection("data source=MYLOVE\\SQLEXPRESS01; initial catalog=ForeignCurrency; user Id=sa; password=1234");
+            con = new SqlConnection("data source= ; initial catalog=ForeignCurrency; user Id=sa; password=1234");
         }
         public void connectionSet()
         {
