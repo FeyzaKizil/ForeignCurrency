@@ -46,7 +46,7 @@ namespace Core
             //api
             var client = new RestClient("https://api.collectapi.com/economy/allCurrency");
             var request = new RestRequest(Method.GET);
-            request.AddHeader("authorization", "apikey 46MImu5LqyKeBGbyIZKJWp:0fHSwUFQJsZFztvQ0tDSQK");
+            request.AddHeader("authorization", "apikey");
             request.AddHeader("content-type", "application/json");
             IRestResponse response = client.Execute(request);
             JsonDataType exchangeRateInfo = JsonConvert.DeserializeObject<JsonDataType>(response.Content);
